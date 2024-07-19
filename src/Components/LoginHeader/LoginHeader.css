@@ -5,14 +5,17 @@
 }
 
 #img1 {
-    width: 212px;
-    height: 44px;
+    width: 200px;
+    height: 35px;
+    margin-right: 15px;
 }
 
 input {
-    height: 60px;
-    width: 559px;
+    height: 50px;
+    width: 350px;
     padding-left: 15px;
+    margin-top: 0px;
+    position: relative;
     background-image: url(/src/assets/Search.png);
     background-repeat: no-repeat;
     background-position: calc(100% - 10px) center;
